@@ -2,7 +2,7 @@
 
 Welcome to the HCDE 439 example Github repository!
 
-Instructor: Paula Te
+Student: Anita Daniel
 
 ## What is Git? What is Github?
 
